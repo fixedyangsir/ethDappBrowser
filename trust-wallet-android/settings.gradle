@@ -1,0 +1,2 @@
+include ':app', ':tn', ':web3view', ':trustcore'
+include ':web3viewdemo'

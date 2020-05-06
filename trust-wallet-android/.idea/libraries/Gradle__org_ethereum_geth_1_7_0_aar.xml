@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ethereum:geth:1.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geth-1.7.0.aar/71cb4cc3abdf012aa29fe9a16be35f1d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geth-1.7.0.aar/71cb4cc3abdf012aa29fe9a16be35f1d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
